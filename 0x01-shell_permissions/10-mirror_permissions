@@ -1,2 +1,2 @@
 #!/bin/bash
-chmob --reference=olleh hello
+chmob --reference = olleh hello
